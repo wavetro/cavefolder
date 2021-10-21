@@ -1,5 +1,5 @@
 - cf01.flac
-This is the original audio file of cavefolder, in all of its glory.
+This is the original audio of cavefolder, in all of its FLAC glory.
 
 - cf01_audacityfile.png
 This is a screenshot of the Audacity project file that contains the five audio channels that make up the audio. I didn't share the original project files because the data would be a whopping 500 MB. 
