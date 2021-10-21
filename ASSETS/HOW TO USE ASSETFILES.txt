@@ -1,1 +1,35 @@
-(work in progress)
+All the following files were made in Blender 2.80 Beta, but should still work fine as tested with 2.93.5 and up. 
+
+Assets in the "noline" collection are ignored by the Freestyle renderer, the feature that draws the black outlines. It's good to put as many objects as needed into this collection to speed up render times. You can't see Freestyle lines in the viewport- you need to properly render a frame.
+
+**Because Blender's system for linking files is horrible, you will need to manually re-add the mesh data to Andy and Bulb's models to use these files, otherwise they won't appear in the scene.
+To do this, using Andy as an example, select the "Andy_mesh" object in the scene and open the tab with the green upside-down triangle (▽) icon in the Properties panel on the right. Find the grayed-out dropdown menu at the top that has the same triangle icon and click the chain icon on the right to unlink the broken data. 
+Then go to File -> Append..., open "cf_Andy.blend," open the "Mesh" folder, and double-click to select the "Andy" mesh data. Go back to that dropdown menu from earlier and set it to "Andy.001." Delete any duplicate Andys that may have appeared in the scene, and then save the file. 
+Repeat these steps for Bulb. I was going to do all this myself, but I didn't want to overwrite the 2.80 Beta compatibility of these files. Again, blame past wavetro for experimenting with file linking and causing this shitshow.
+
+------------------------------------------------------------------------------------------------------
+
+- cf_mtn.blend
+A file that contains the model of the mountain, a screenshot of the settings I used with the preloaded A.N.T.Landscape add-on to make it, and an early iteration of the cavefolder logo, even though the logo is just Times New Roman. 
+While the other files render with EEVEE, this file uses the Cycles render engine for some reason.
+
+- cf_OTHER.blend
+I have no idea what I was trying to do in this file. All I know is that the rest of cavefolder requires it for the materials it has, so don't delete it.
+
+- cf_TEMPLATE1.blend
+A scene that contains the basic building blocks for cavefolder, including the black and white materials, camera rig, subtitles rig, and the Andy and Bulb models linked from external files. (You'll need to place "cf_Andy.blend" and "cf_Bulb.blend" in the same folder as this file.)
+
+- cf01A_hotelroom.blend**
+Scene 1 of 5 in cavefolder. Andy wakes up in a mysterious room.
+
+- cf01B_hotelhallway.blend**
+Scene 2 of 5 in cavefolder. Andy walks down a mysterious hallway.
+
+- cf01C_hotelexterior.blend**
+Scene 3 of 5 in cavefolder. Andy goes outside and meets Bulb for the first time.
+
+- cf01D_donnys.blend**
+Scene 4 of 5 in cavefolder. Bulb drags Andy to Donny's for some food.
+
+- cf01E_donnysexterior.blend**
+Scene 5 of 5 in cavefolder. Andy goes back outside and gets mad at Bulb. He decides to go explore with him.
