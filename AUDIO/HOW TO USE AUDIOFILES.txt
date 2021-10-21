@@ -1,0 +1,12 @@
+- cf01.flac
+This is the original audio file of cavefolder, in all of its glory.
+
+- cf01_audacityfile.png
+This is a screenshot of the Audacity project file that contains the five audio channels that make up the audio. I didn't share the original project files because the data would be a whopping 500 MB. 
+I also don't agree with the telemetry decisions made by the new developers of Audacity 3.0.3 and above. Instead, I've exported the five audio channels into seperate FLAC stems. 
+
+- cf01_stem...
+These five stem files are all the sounds of cavefolder, isolated into individual tracks. It's largely comprised of CC0 sound effects from Freesound.org, save for Bulb's walking, which is just a recording of my keys jangling. 
+A proper DAW like Reaper or FL Studio is required if you plan to recreate Andy's voice, Bulb's voice, or any music from cavefolder. Instructions to re-create the characters' voices can be found in the .txt file of their respectively-named "ANDY" and "BULB" folders. 
+While full versions of the music do not exist, it is very easy to recreate them. I don't have the original MIDI notes, but the free VST plugin Helm by Matt Tytel (along with the factory presets) is all you need.
+In Helm, open the preset browser and look for the "Pad" section under the factory presets. The music at 0:45 was "MT Pulsing Daisies" and at 3:15 was "COA Broken Old Analog." Playing random chords/notes with these presets will make it pretty clear how easy it is to recreate the songs from the video.
