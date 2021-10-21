@@ -1,8 +1,5 @@
 (work in progress)
 
-- cf01.mp4
-This is literally cavefolder, as in the original file of the entire video itself.
-
 - cf01.png
 This is a screenshot from the start of cavefolder, used for when I upload to a video site and get asked to upload a video thumbnail.
 
