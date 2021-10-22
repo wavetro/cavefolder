@@ -1,7 +1,8 @@
-(work in progress)
-
 - cf01.png
 This is a screenshot from the start of cavefolder, used for when I upload to a video site and get asked to upload a video thumbnail.
+
+- cf01.txt
+The original script to cavefolder that I wrote in Notepad. Contrary to the last line in the document, more episodes are not on the way.
 
 - cf_behindthescenes...
 These are screenshots or videos I took while I was making cavefolder. It's not much, but they're mildly interesting.
