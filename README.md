@@ -1,6 +1,6 @@
 # All the assets to cavefolder
 
-**2022 UPDATE:** [IsometricPixel](https://youtube.com/isometricpixel) has made better, optimized versions of the Andy and Bulb 3D models that you should use instead of the original ones I made. The models are in the "MODELS" folder and are also licensed to the public domain
+**2022 UPDATE:** [IsometricPixel](https://youtube.com/isometricpixel) has made better, optimized versions of the Andy and Bulb 3D models that you should use instead of the original ones I made. The models are in the "MODELS" folder and are also public domain
 
 ![Andy and Bulb](https://i.imgur.com/QZIz9cS.png)
 
