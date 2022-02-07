@@ -1,0 +1,8 @@
+- ANDY_BULB_optimized.blend
+
+Added just recently in 2022, these are optimized Andy and Bulb files made by IsometricPixel that you should use for your own cavefolder-based projects, and NOT the original .blend files that are located in the "ANDY" and "BULB" folders. However, I have NOT linked these new models to the original 3D scenes in the main "ASSETS" folder.
+
+- /ANDY
+- /BULB
+
+These folders contain the original assets I used in 2019 for Andy and Bulb. See the txt file inside each folder for more info.

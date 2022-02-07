@@ -2,6 +2,8 @@
 
 ![Andy and Bulb](https://i.imgur.com/QZIz9cS.png)
 
+<span style="color:red">**2022 UPDATE:**</span> [IsometricPixel](https://youtube.com/isometricpixel) has made better, optimized versions of the Andy and Bulb 3D models that you should use instead of the original ones I made. The models are in the "MODELS" folder and are also licensed to the public domain
+
 This is the official repository of all things related to cavefolder, the now-defunct show about Andy and Bulb. There's a .txt file in each folder that briefly describes how to use each asset to recreate the show. 
 
 📂 **Hit the big green download button at the top (Code -> Download .ZIP) to download these files, or click "Download" on an individual file to only grab what you need.**
