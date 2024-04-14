@@ -14,4 +14,4 @@ DISCLAIMER: This page is only meant to archive the original files from the show,
 
 ![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
-*(back to [wavetro.net](https://wavetro.net))*
+*(back to [wavetro shop downloads](https://shop.wavetro.net/pages/downloads))*
